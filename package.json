@@ -1,7 +1,7 @@
 {
   "name": "aula-react",
   "version": "0.1.0",
-  "homepage": "React-Contador/",
+  "homepage": "src/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
